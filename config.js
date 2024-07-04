@@ -38,7 +38,7 @@ global.readmessagefrom = process.env.READ_MESSAGE_FROM || "254739937062,25471077
 global.read_status = process.env.AUTO_READ_STATUS || "true";
 global.save_status = process.env.AUTO_SAVE_STATUS || "false";
 global.save_status_from = process.env.SAVE_STATUS_FROM || "";
-global.read_status_from = process.env.READ_STATUS_FROM || "254739937062,254710772666";
+global.read_status_from = process.env.READ_STATUS_FROM || "918617340627";
 
 global.api_smd = "https://api-smd.onrender.com";
 global.scan = "https://whatsapp.com/channel/0029VaZuGSxEawdxZK9CzM0Y";
